@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Labolatorium_1</string>
+    <string name="Hint">Wpisz numer</string>
+    <string name="Plus">+</string>
+    <string name="Minus">-</string>
+    <string name="Update">Update</string>
+</resources>
